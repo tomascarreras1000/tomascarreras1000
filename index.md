@@ -1,37 +1,50 @@
-## Welcome Tomás Carreras' GitHub Page
+# Welcome Tomás Carreras' GitHub Page
 
-You can use the [editor on GitHub](https://github.com/tomascarreras1000/tomascarreras1000/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Short excerpt of the projects I've been a part of.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
 
-### Markdown
+Hi! I'm Tomás. Right now I am a student at CITM to become a video game and app developer, which I'm very keen on. I'm industrious, patient and sedulous, as well as decisive and open-minded. Just so you get to know me, I love video games and I mostly play LoL, Dark Souls III or Minecraft, but lately I've been enjoying Terraria. I also really like English and spending time with my family. Nice to meet you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## CITM-UPC [Bachelor's degree in Video Game Design and Development (BCN-English)]
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 1st Year
 
-- Bulleted
-- List
+[Project: Fatal Fury by Invicta Studios](https://github.com/nurialp12/INVICTA_Project1)
 
-1. Numbered
-2. List
+### 2nd Year
 
-**Bold** and _Italic_ and `Code` text
+[Development: Ninja Frog by Nuto Studios](https://github.com/Needlesslord/Platformer_GD)
 
-[Link](url) and ![Image](src)
-```
+[Physics II: Pinball](https://github.com/Needlesslord/PHYSICS2-Pinball)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Physics II: Racing game 3D by Nuto Studios](https://github.com/Needlesslord/PHYSICS2-Racing_Game)
 
-### Jekyll Themes
+[Physics II: Verlet Integrator](https://github.com/Needlesslord/PHYSICS2-Verlet_Integrator)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomascarreras1000/tomascarreras1000/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Physics II: Aimbot](https://github.com/Needlesslord/PHYSICS2-Aim_Bot_SS)
+
+[Maths II: Arcball](https://github.com/Needlesslord/2YEAR-Mathematics2)
+
+[Project: PaintWars by BrainDead Studios](https://github.com/Needlesslord/PaintWars_by_BrainDeadStudios)
+
+
+
+### 3rd Year
+
+[Mobile Devices: Apps developed using Flutter](https://drive.google.com/drive/folders/1LDfgGJsiS0Xmx_BrxuX6gnS1uel-FVdf?usp=sharing)
+
+[3D Engines: Strawberry Engine](https://github.com/Needlesslord/StrawberryEngine)
+
+[AR/VR: Beat Hero: VR Prototype](https://github.com/EnricGDV/Beat_Hero_VRPrototype)
+
+[Project: The Mandalorian Sands of Arvala by Missclick Studios](https://github.com/MissclickStudios/Projecte3)
+
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Linkedin](https://www.linkedin.com/in/tomascarreras/)
+[GitHub](https://github.com/tomascarreras1000)
