@@ -6,7 +6,9 @@ Short excerpt of the projects I've been a part of.
 
 Hi! I'm Tomás. Right now I am a student at CITM to become a video game and app developer, which I'm very keen on. I'm industrious, patient and sedulous, as well as decisive and open-minded. Just so you get to know me, I love video games and I mostly play LoL, Dark Souls III or Minecraft, but lately I've been enjoying Terraria. I also really like English and spending time with my family. Nice to meet you!
 
-## CITM-UPC [Bachelor's degree in Video Game Design and Development (BCN-English)]
+## CITM-UPC 
+
+Bachelor's degree in Video Game Design and Development (BCN-English)
 
 
 ### 1st Year
@@ -44,7 +46,9 @@ Hi! I'm Tomás. Right now I am a student at CITM to become a video game and app 
 
 
 
-### Support or Contact
+## Contact
 
 [Linkedin](https://www.linkedin.com/in/tomascarreras/)
+
+
 [GitHub](https://github.com/tomascarreras1000)
