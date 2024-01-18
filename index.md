@@ -41,12 +41,20 @@ Bachelor's degree in Video Game Design and Development (BCN-English)
 
 [AR/VR: Beat Hero: VR Prototype](https://github.com/EnricGDV/Beat_Hero_VRPrototype)
 
-[Project: The Mandalorian Sands of Arvala by Missclick Studios](https://github.com/MissclickStudios/Projecte3)
+[Project 3: The Mandalorian Sands of Arvala by Missclick Studios](https://missclickstudios.github.io/The-Mandalorian-Sands-of-Arvala/index.html) ([here](https://github.com/MissclickStudios/Projecte3) you can find the repository for the game engine)
 
+[Project 3: Dune Special Spice Ops by Chamfer Studios](https://dsso-website.vercel.app/) ([here](https://github.com/Chamfer-Studios) you can find Chamfer Studios GitHub's profile, where the engine and game repositories are)
 
+### 4th Year
 
+[TFG: Ninja Frog Against Gravity](https://github.com/tomascarreras1000/TFG) ([here](https://tomas-carreras.itch.io/ninja-frog-against-gravity) you can find itch.io's page and [here](https://tomascarreras1000.github.io/TFG/) you can find the game's page)
+
+[Game Jam: The Force Knights](https://github.com/tomascarreras1000/The-Force-Knights)
 
 ## Contact
+
+[Website](https://tomascarreras1000.github.io/tomascarreras/)
+
 
 [Linkedin](https://www.linkedin.com/in/tomascarreras/)
 
