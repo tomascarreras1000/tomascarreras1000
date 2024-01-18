@@ -6,7 +6,7 @@
 
 [FIND MORE ABOUT ME AND MY WORK](https://tomascarreras1000.github.io/tomascarreras/)
 
-[All peojects on GitHub](https://tomascarreras1000.github.io/tomascarreras1000/)
+[All projects on GitHub](https://tomascarreras1000.github.io/tomascarreras1000/)
 
 
 <!---
